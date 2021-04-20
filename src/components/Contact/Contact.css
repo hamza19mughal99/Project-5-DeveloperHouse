@@ -1,0 +1,20 @@
+.form-control{
+    margin-bottom: 10px;
+}
+.btn{
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    color: #FF6347;
+    border: 2px solid #FF6347;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.btn:hover{
+    background-color: #FF6347;
+    color: #fff;
+}
